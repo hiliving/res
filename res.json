@@ -1,0 +1,26 @@
+{
+  "code": "200",
+  "data": {
+    "resurl": [
+      "http://zy.bajieziyuan.com/inc/bjm3u8.php",
+      "https://www.398zy.com/inc/mac_m3u8.php",
+      "http://www.zdziyuan.com/inc/api_zuidam3u8.php",
+      "http://cj.wlzy.tv/inc/api_mac_m3u8.php",
+      "https://www.mhapi123.com/inc/api.php",
+      "http://www.dbzyz.com/inc/dbm3u8.php",
+      "http://cj.zuikzy.co/inc/zkm3u8.php",
+      "https://www.subo8988.com/inc/maccms_subom3u8.php",
+      "http://cj.zycjw1.com/inc/135m3u8.php"
+    ],
+    "restitle": [
+      "资源A(推荐)",
+      "资源B(新)",
+      "资源C",
+      "资源D",
+      "资源E",
+      "资源F",
+      "资源G","资源H","资源I"
+    ]
+  },
+  "msg": ""
+}
